@@ -1,2 +1,2 @@
 # uno
--Text based UNO game in Java
+- Text based UNO game in Java
