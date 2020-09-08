@@ -7,9 +7,9 @@
 <br>
 Run with <h6>java -jar UNO.jar</h6>
 
-Normal turn
+Normal turn<br>
 <img src="https://i.imgur.com/spHnO9F.png">
-Wild cards
+Wild cards<br>
 <img src="https://i.imgur.com/fuoPGLa.png">
-Game over
+Game over<br>
 <img src="https://i.imgur.com/krNzxH0.png">
